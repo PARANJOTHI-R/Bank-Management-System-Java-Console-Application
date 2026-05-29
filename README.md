@@ -22,7 +22,7 @@ Delete accounts
 Save and load account data
 Customer (Account Holder)
 
-# Customer represents the account owner and has limited authority restricted to their own account.
+Customer represents the account owner and has limited authority restricted to their own account.
 
 ## Customer features include:
 
